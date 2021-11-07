@@ -1,1 +1,1 @@
-# Project26-EpicArchery5
+# project-C26-template
